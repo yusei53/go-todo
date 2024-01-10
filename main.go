@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"todo-app/config"
+
+	"github.com/yusei53/go-todo/config"
 )
 
 func main() {
